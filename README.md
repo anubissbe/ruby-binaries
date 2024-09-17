@@ -1,2 +1,2 @@
 # ruby-binaries
-Ruby Binaries in tar.gz
+Ruby Binary for debian 12
